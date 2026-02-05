@@ -1,2 +1,2 @@
-xXprint("CI/CD assignment working - feature branch")
+print("CI/CD assignment working - feature branch")
 
